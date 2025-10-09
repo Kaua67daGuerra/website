@@ -1,3 +1,44 @@
-body{
-    background-color: yellow;
+#titulo_h1{
+    color: green;
+    text-align: center;
+
+}
+
+#titulo_h2{
+    color: red;
+    text-align:right;
+}#elemento_
+
+#titulo_h3{
+    color: violet;
+    text-align:left;
+}
+
+#elemento_b{
+    color: aqua;
+}
+
+#elemento_em{
+    color: chocolate;
+}
+
+#elemento_strong{
+    color: darkred;
+}
+
+#elemento_sub{
+    color: rosybrown;
+}
+
+#elemento_sup{
+    color: chartreuse;
+}
+
+#elemento_small{
+    color: crimson;
+}
+
+#elemento_mark{
+    color: white;
+    background-color: blue;
 }

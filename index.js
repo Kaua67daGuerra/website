@@ -1,4 +1,16 @@
-function mudar_conteudo_elemento() {
+function mudar_cor_elemento(){
 
-    document.getElementById("demo").innerHTML ="O clique está funcionando";  
+    const paragrafo = document.querySelector('#paragrafo');
+
+    paragrafo.addEventListener('click', ()=> {
+
+        const elemento_paragrafo = document.querySelector('#paragrafo');
+
+        elemento_paragrafo.style.color = 'red';
+    });
+}
+
+function mudar_texto_elemento(){
+
+    document.getElementById("demo").innerHTML = "o clique está funcionando";
 }
