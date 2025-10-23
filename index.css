@@ -1,21 +1,31 @@
-#titulo_h1{
-    color: green;
-    text-align: center;
+html{
 
+	scroll-behavior: smooth;
 }
 
-#titulo_h2{
-    color: red;
-    text-align:right;
-}#elemento_
+body{
 
-#titulo_h3{
+    background-color: yellow;
+}
+
+#elemento_h1{
+
+    color: green;
+    text-align: center;
+}
+
+#elemento_h2{
+    color: red;
+    text-align: right;
+}
+
+#elemento_h3{
     color: violet;
-    text-align:left;
+    text-align: left;
 }
 
 #elemento_b{
-    color: aqua;
+    color: darkolivegreen;
 }
 
 #elemento_em{
@@ -27,18 +37,27 @@
 }
 
 #elemento_sub{
-    color: rosybrown;
+    color: brown;
 }
 
 #elemento_sup{
     color: chartreuse;
 }
 
-#elemento_small{
-    color: crimson;
-}
-
 #elemento_mark{
     color: white;
     background-color: blue;
+}
+
+#secao1{
+    display: inline-block;
+}
+
+#secao2{
+    display: inline-block;
+}
+
+#secao3{
+
+    display: inline-block;
 }
