@@ -1,0 +1,60 @@
+pre{
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-style: dashed;
+    text-decoration-color: red;
+    text-decoration-thickness: 0.2em;
+}
+
+p{
+    text-align: left;
+    text-transform: capitalize;
+}
+
+p2{
+    text-transform: capitalize;
+    text-align: justify;
+    text-indent: 50em;
+    text-shadow: 1px 1px 7px blue;
+    
+}
+
+p5{
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: pink;
+    text-decoration-thickness: 0.2em;
+    text-transform: uppercase;
+    text-indent: 3em;
+    text-shadow: 1px 1px 7px greenyellow;
+}
+
+#p10{
+ text-align: center;
+}
+#p11{
+text-align: left;
+}
+#p12{
+text-decoration-line: underline;
+text-decoration-style: dotted;
+}
+#p13{
+
+}
+#p14{
+
+}
+#p15{
+
+}
+#p16{
+
+}
+#p17{
+
+}
+#p18{
+
+}
