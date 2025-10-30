@@ -41,19 +41,21 @@ text-decoration-line: underline;
 text-decoration-style: dotted;
 }
 #p13{
-
+text-decoration-line: overline;
+text-decoration-style: double;
 }
 #p14{
-
+text-decoration-line: line-through;
+text-decoration-style: dashed;
 }
 #p15{
-
+text-transform: uppercase;
 }
 #p16{
-
+text-transform: lowercase;
 }
 #p17{
-
+text-transform: capitalize;
 }
 #p18{
 
