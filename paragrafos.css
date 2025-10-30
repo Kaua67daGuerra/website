@@ -11,7 +11,7 @@ p{
     text-transform: capitalize;
 }
 
-p2{
+#p2{
     text-transform: capitalize;
     text-align: justify;
     text-indent: 50em;
@@ -19,7 +19,7 @@ p2{
     
 }
 
-p5{
+#p3{
     text-align: center;
     text-decoration-line: underline;
     text-decoration-style: wavy;
@@ -58,5 +58,8 @@ text-transform: lowercase;
 text-transform: capitalize;
 }
 #p18{
-
+text-shadow: 3px 3px 3px grey;
+}
+#p19{
+text-align: right;
 }
